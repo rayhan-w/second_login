@@ -14,7 +14,7 @@ body{
 .log{
 	height: 60px; 
 	width: 330px; 
-	background-color: #5dcabc;
+	background-color: blue;
 	border-top-left-radius: 5px;
 	border-top-right-radius: 5px; 
 }
